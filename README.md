@@ -1,2 +1,6 @@
 # Data-Bootcamp-Final-Project
-We were given full discretion to do any data analytic project that we thought would be "interesting".
+I was given full discretion to do any data analytic project that I thought would be "interesting".
+
+
+
+
